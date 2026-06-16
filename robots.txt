@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dental-healthy-smile-surco-demo.vercel.app/sitemap.xml
